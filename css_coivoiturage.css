@@ -1,0 +1,10 @@
+.banniere {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+    background-color: rgb(127, 223, 255);
+}
