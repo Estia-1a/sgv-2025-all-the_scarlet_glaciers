@@ -1,20 +1,25 @@
 .banniere {
   background-color: white;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-between;
 
-    h1 {
+    .LogoESTIA {
+        display: flex;
+        align-items: center;
+    }
+    .titre {
+        display: flex;
+        align-items: center;
+        margin: auto;
+
+       h1 {
         padding-left: 40px;
         padding-right: 40px;
         font-family: fantasy;
         font-size: 250%;
+        } 
     }
-
-    .logoESTIA {
-        display: flex;
-        justify-content: right;
-    }
+   
 }
 
 body {
