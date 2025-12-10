@@ -5,10 +5,18 @@
   align-items: center;
 
     h1 {
-        padding: 20px;
+        padding-left: 40px;
+        padding-right: 40px;
+        font-family: fantasy;
+        font-size: 250%;
+    }
+
+    .logoESTIA {
+        display: flex;
+        justify-content: right;
     }
 }
 
 body {
-    background-color: rgb(127, 223, 255);
+    background: linear-gradient(90deg, #8cbdd7, #35da3a);
 }
