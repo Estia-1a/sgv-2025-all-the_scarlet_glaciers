@@ -26,6 +26,17 @@ body {
     background-color: rgb(38, 158, 128) ;
 }
 
+.trajet-bulle {
+    display :inline-block;
+    background-color:#f0f0f0;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+    text-decoration: none;
+    color: #333;
+    transition: transform 0.2s, box-shadow 0.2s;
+
+}
 
 footer {
     background-color: white;
