@@ -25,3 +25,23 @@
 body {
     background: linear-gradient(90deg, #8cbdd7, #35da3a);
 }
+
+
+footer {
+    background-color: white;
+    font-size: 20px;
+    font-family: 'fantasy', Arial, sans-serif;
+    font-weight: 1000;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    text-decoration: none;
+    color : red;
+
+}
+
+footer a {
+    text-decoration: none;
+    color : red;
+}
+
